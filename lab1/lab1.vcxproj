@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{9604F8B7-F3C8-426D-B5F5-2A0F4B5D8443}</ProjectGuid>
-    <RootNamespace>CGLAB</RootNamespace>
+    <ProjectGuid>{9814F7D0-E292-4F36-9C22-D60D706A5500}</ProjectGuid>
+    <RootNamespace>lab1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
